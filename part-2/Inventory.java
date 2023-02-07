@@ -24,6 +24,7 @@ public class Inventory {
                 break;
             }
         }
+        sc.close();
     }
 
     public static void addGuitar() {
